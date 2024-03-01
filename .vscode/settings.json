@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d3fb5104-7cdb-4ebe-b13e-a0630208bfe1/resourceGroups/Rnodeapp/providers/Microsoft.Web/sites/Rnodeapp",
+    "appService.deploySubpath": "."
+}
